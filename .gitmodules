@@ -1,0 +1,3 @@
+[submodule "CustomMayd.Uwp"]
+	path = CustomMayd.Uwp
+	url = https://github.com/darenm/CustomMayd.Uwp.git
